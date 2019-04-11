@@ -71,7 +71,7 @@
 
         tl = new TimelineMax({repeat:2, repeatDelay:3.5});
 
-        tl.set($bg, {scale:1.25})
+        tl.set($bg, {scale:1.35})
 
           .add("start")
           .from($animation, 0.25, {autoAlpha:0}, "start+=0.5")
@@ -90,7 +90,7 @@
           .from($image2, 0.35, {yPercent:100, ease: Power1.easeOut}, "endframe")
           .from($scp, 0.35, {y:-25, opacity:0}, "endframe")
           .from($teams, 0.35, {opacity:0}, "+=0.5")
-          .from($tunein, 0.35, {opacity:0}, "+=0.5")
+          .from($tunein, 0.35, {opacity:0}, "+=0")
           .staggerFrom($networks, 0.35, {opacity:0}, 0.2, "+=0.35")
           .from($cta, 0.25, {yPercent:100, ease: Power1.easeOut}, "+=0.2")
 

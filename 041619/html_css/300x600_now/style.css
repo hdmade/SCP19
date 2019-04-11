@@ -92,19 +92,19 @@ body{
 
 	#logo_nbcsn {
 		position: absolute;
-		left: 104px;
-		top: 378px;	
-		width: 42px;
-		height: 32px;
+		left: 94px;
+		top: 370px;	
+		width: 56px;
+		height: 44px;
 		background-image: url(images/logo_nbcsn.png);
 	}
 
 	#logo_app {
 		position: absolute;
-		left: 161px;
-		top: 378px;	
-		width: 32px;
-		height: 32px;
+		left: 163px;
+		top: 374px;	
+		width: 36px;
+		height: 36px;
 		background-image: url(images/logo_app.png);
 	}
 
@@ -119,18 +119,18 @@ body{
 
 	#teams {
 		position: absolute;
-		left: 29px;
-		top: 276px;	
-		width: 241px;
-		height: 29px;
+		left: 47px;
+		top: 272px;	
+		width: 205px;
+		height: 24px;
 		background-image: url(images/teams.png);
 	}
 	
 	#tunein {
 		position: absolute;
-		left: 55px;
-		top: 318px;	
-		width: 189px;
-		height: 45px;
+		left: 41px;
+		top: 306px;	
+		width: 219px;
+		height: 51px;
 		background-image: url(images/tunein_now.png);
 	}
