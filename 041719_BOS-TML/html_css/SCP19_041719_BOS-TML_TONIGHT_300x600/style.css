@@ -119,18 +119,18 @@ body{
 
 	#teams {
 		position: absolute;
-		left: 48px;
+		left: 45px;
 		top: 272px;	
-		width: 203px;
+		width: 209px;
 		height: 23px;
 		background-image: url(images/teams.png);
 	}
 	
 	#tunein {
 		position: absolute;
-		left: 13px;
+		left: 42px;
 		top: 306px;	
-		width: 271px;
-		height: 51px;
+		width: 215px;
+		height: 52px;
 		background-image: url(images/tunein_tonight.png);
 	}

@@ -119,16 +119,16 @@ body{
 
 	#teams {
 		position: absolute;
-		left: 48px;
+		left: 45px;
 		top: 272px;	
-		width: 203px;
+		width: 209px;
 		height: 23px;
 		background-image: url(images/teams.png);
 	}
 	
 	#tunein {
 		position: absolute;
-		left: 41px;
+		left: 40px;
 		top: 306px;	
 		width: 219px;
 		height: 51px;
