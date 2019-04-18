@@ -74,17 +74,17 @@ body{
 
 	#logo_nbcsn {
 		position: absolute;
-		left: 178px;
-		top: 58px;	
-		width: 45px;
-		height: 35px;
+		left: 180px;
+		top: 66px;	
+		width: 39px;
+		height: 24px;
 		background-image: url(images/logo_nbcsn.png);
 	}
 
 	#logo_app {
 		position: absolute;
-		left: 232px;
-		top: 61px;	
+		left: 229px;
+		top: 65px;	
 		width: 25px;
 		height: 25px;
 		background-image: url(images/logo_app.png);
