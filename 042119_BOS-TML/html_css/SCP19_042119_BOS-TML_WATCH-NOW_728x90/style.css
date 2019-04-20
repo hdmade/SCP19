@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/* CSS Document*/
+
+body{
+	background-color:#333;
+	margin:0;
+}
+
+#animation {
+	visibility: hidden;
+}
+
+#banner {
+	position: absolute;
+	width: 728px;
+	height: 90px;
+	background-color: #000000;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	border: 1px solid #ffffff;
+	box-sizing: border-box;
+}
+
+.bg {
+		position: absolute;
+		left: -55px;
+		top: 0px;	
+		width: 838px;
+		height: 90px;
+	}
+
+/* FRAME 1 */
+
+	#tagline1 {
+		position: absolute;
+		left: 24px;
+		top: 20px;	
+		width: 687px;
+		height: 48px;
+		background-image: url(images/tagline2.png);
+	}
+
+	#tagline1outline {
+		position: absolute;
+		left: 425px;
+		top: 22px;	
+		width: 288px;
+		height: 48px;
+		background-image: url(images/tagline2-outline.png);
+	}	
+
+	#tagline2 {
+		position: absolute;
+		left: 24px;
+		top: 20px;	
+		width: 687px;
+		height: 48px;
+		background-image: url(images/tagline2.png);
+	}
+
+	#tagline2outline {
+		position: absolute;
+		left: 425px;
+		top: 22px;	
+		width: 288px;
+		height: 50px;
+		background-image: url(images/tagline2-outline.png);
+	}
+
+
+/* END FRAME */
+	
+/*
+	#begin {
+		position: absolute;
+		left: 453px;
+		top: 8px;	
+		width: 163px;
+		height: 30px;
+		background-image: url(images/begin.png);
+	}
+*/
+
+	#image {
+		position: absolute;
+		left: 0px;
+		top: 0px;	
+		width: 376px;
+		height: 90px;
+		background-image: url(images/image1.png);
+	}
+
+	#image2 {
+		position: absolute;
+		right: 0px;
+		top: 0px;	
+		width: 363px;
+		height: 90px;
+		background-image: url(images/image2.png);
+	}
+
+    /*#teams {
+		position: absolute;
+		left: 316px;
+		top: 15px;	
+		width: 229px;
+		height: 27px;
+		background-image: url(images/teams.png);
+	}*/
+
+	#tunein {
+		position: absolute;
+		left: 309px;
+		top: 15px;	
+		width: 177px;
+		height: 60px;
+		background-image: url(images/tunein_now.png);
+	}
+
+/*	#logo_nbc {
+		position: absolute;
+		left: 371px;
+		top: 48px;	
+		width: 45px;
+		height: 28px;
+		background-image: url(images/logo_nbc.png);
+	}*/
+
+	#logo_nbcsn {
+		position: absolute;
+		left: 466px;
+		top: 46px;	
+		width: 47px;
+		height: 29px;
+		background-image: url(images/logo_nbcsn.png);
+	}
+
+/*	#logo_cnbc {
+		position: absolute;
+		left: 500px;
+		top: 46px;	
+		width: 45px;
+		height: 35px;
+		background-image: url(images/logo_cnbc.png);
+	}
+
+	#logo_usa {
+		position: absolute;
+		left: 563px;
+		top: 54px;	
+		width: 43px;
+		height: 19px;
+		background-image: url(images/logo_usa.png);
+	}*/
+
+	#logo_app {
+		position: absolute;
+		left: 526px;
+		top: 45px;	
+		width: 30px;
+		height: 31px;
+		background-image: url(images/logo_app.png);
+	}
+
+
+	#scp {
+		position: absolute;
+		left: 153px;
+		top: 25px;	
+		width: 132px;
+		height: 47px;
+		background-image: url(images/scp.png);
+	}

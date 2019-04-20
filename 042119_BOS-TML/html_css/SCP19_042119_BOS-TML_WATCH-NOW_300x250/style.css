@@ -1,0 +1,165 @@
+@charset "UTF-8";
+/* CSS Document*/
+
+body{
+	background-color:#333;
+	margin:0;
+}
+
+#animation {
+	visibility: hidden;
+}
+
+#banner {
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	background-color: #000000;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	border: 1px solid #ffffff;
+	box-sizing: border-box;
+}
+
+.bg {
+		position: absolute;
+		left: -25px;
+		top: 0px;	
+		width: 350px;
+		height: 250px;
+	}
+
+/* FRAME 1 */
+
+	#taglinetop {
+		position: absolute;
+		left: 63px;
+		top: 53px;	
+		width: 171px;
+		height: 81px;
+		background-image: url(images/tagline-top.png);
+	}
+
+	#tagline1 {
+		position: absolute;
+		left: 15px;
+		top: 144px;	
+		width: 273px;
+		height: 45px;
+		background-image: url(images/tagline2.png);
+	}
+
+	#tagline1outline {
+		position: absolute;
+		left: 17px;
+		top: 145px;	
+		width: 273px;
+		height: 46px;
+		background-image: url(images/tagline2-outline.png);
+	}
+
+
+
+/* END FRAME */
+	
+/*
+	#begin {
+		position: absolute;
+		left: 19px;
+		top: 84px;	
+		width: 142px;
+		height: 26px;
+		background-image: url(images/begin.png);
+	}
+*/
+
+	#image {
+		position: absolute;
+		right: 0px;
+		bottom: 0px;	
+		width: 300px;
+		height: 250px;
+		background-image: url(images/image1.png);
+	}
+
+	#image2 {
+		position: absolute;
+		right: 0px;
+		bottom: 0px;	
+		width: 300px;
+		height: 250px;
+		background-image: url(images/image2.png);
+	}
+
+    #tag {
+		position: absolute;
+		left: 72px;
+		top: 107px;	
+		width: 172px;
+		height: 53px;
+		background-image: url(images/tunein_now.png);
+	}
+
+/*	#logo_nbc {
+		position: absolute;
+		left: 14px;
+		top: 137px;	
+		width: 34px;
+		height: 21px;
+		background-image: url(images/logo_nbc.png);
+	}*/
+
+	#logo_nbcsn {
+		position: absolute;
+		left: 117px;
+		top: 173px;	
+		width: 41px;
+		height: 25px;
+		background-image: url(images/logo_nbcsn.png);
+	}
+
+/*	#logo_cnbc {
+		position: absolute;
+		left: 109px;
+		top: 135px;	
+		width: 34px;
+		height: 26px;
+		background-image: url(images/logo_cnbc.png);
+	}*/
+
+/*	#logo_usa {
+		position: absolute;
+		left: 16px;
+		top: 182px;	
+		width: 36px;
+		height: 16px;
+		background-image: url(images/logo_usa.png);
+	}*/
+
+	#logo_app {
+		position: absolute;
+		left: 173px;
+		top: 172px;	
+		width: 26px;
+		height: 26px;
+		background-image: url(images/logo_app.png);
+	}
+
+    #cta {
+		position: absolute;
+		right: 0px;
+		top: 228px;	
+		width: 226px;
+		height: 22px;
+		background-image: url(images/cta.png);
+	}
+
+	#scp {
+		position: absolute;
+		left: 92px;
+		top: 56px;	
+		width: 131px;
+		height: 47px;
+		background-image: url(images/scp.png);
+	}
