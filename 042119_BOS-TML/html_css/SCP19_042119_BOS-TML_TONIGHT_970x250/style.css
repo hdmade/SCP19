@@ -120,9 +120,9 @@ body{
 
 	#tunein {
 		position: absolute;
-		left: 370px;
-		top: 92px;	
-		width: 230px;
+		left: 326px;
+		top: 91px;	
+		width: 312px;
 		height: 90px;
 		background-image: url(images/tunein_tonight.png);
 	}
