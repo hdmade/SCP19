@@ -119,10 +119,10 @@ body{
 
 	#teams {
 		position: absolute;
-		left: 45px;
-		top: 272px;	
-		width: 209px;
-		height: 23px;
+		left: 15px;
+		top: 274px;	
+		width: 269px;
+		height: 21px;
 		background-image: url(images/teams.png);
 	}
 	
