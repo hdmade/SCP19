@@ -69,10 +69,10 @@ body{
 	#logo_nbcsn {
 	 
 		position: absolute;
-		left: 263px;
-		top: 10px;	
-		width: 47px;
-		height: 29px;
+		left: 268px;
+		top: 13px;	
+		width: 44px;
+		height: 26px;
 		background-image: url(images/logo_nbcsn.png);
 	}
 
@@ -106,7 +106,7 @@ body{
 		position: absolute;
 		left: 10px;
 		top: 7px;	
-		width: 106px;
+		width: 103px;
 		height: 38px;
 		background-image: url(images/scp.png);
 	}
@@ -127,9 +127,9 @@ body{
 	#tunein {
 	 
 		position: absolute;
-		left: 135px;
+		left: 125px;
 		top: 5px;	
-		width: 88px;
+		width: 135px;
 		height: 40px;
 		background-image: url(images/tunein_tonight.png);
 	}

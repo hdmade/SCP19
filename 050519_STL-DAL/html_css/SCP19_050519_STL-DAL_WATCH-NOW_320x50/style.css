@@ -106,7 +106,7 @@ body{
 		position: absolute;
 		left: 10px;
 		top: 7px;	
-		width: 106px;
+		width: 103px;
 		height: 38px;
 		background-image: url(images/scp.png);
 	}
@@ -127,9 +127,9 @@ body{
 	#tunein {
 	 
 		position: absolute;
-		left: 135px;
+		left: 125px;
 		top: 5px;	
-		width: 95px;
+		width: 135px;
 		height: 40px;
 		background-image: url(images/tunein_now.png);
 	}
