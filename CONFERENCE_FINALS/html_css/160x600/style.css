@@ -44,19 +44,19 @@ body{
 
 	#tagline1 {
 		position: absolute;
-		left: 9px;
+		left: 13px;
 		top: 291px;	
-		width: 140px;
+		width: 130px;
 		height: 94px;
 		background-image: url(images/tagline1.png);
 	}
 
 	#tagline1outline {
 		position: absolute;
-		left: 10px;
-		top: 292px;	
-		width: 140px;
-		height: 94px;
+		left: 14px;
+		top: 291px;	
+		width: 131px;
+		height: 96px;
 		background-image: url(images/tagline1-outline.png);
 	}
 
