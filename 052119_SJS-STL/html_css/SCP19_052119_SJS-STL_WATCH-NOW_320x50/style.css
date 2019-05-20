@@ -69,7 +69,7 @@ body{
 	#logo_nbcsn {
 	 
 		position: absolute;
-		left: 266px;
+		left: 263px;
 		top: 8px;	
 		width: 49px;
 		height: 36px;
@@ -93,7 +93,7 @@ body{
 	#logo_app {
 	 
 		position: absolute;
-		left: 270px;
+		left: 272px;
 		top: 6px;	
 		width: 38px;
 		height: 38px;
@@ -104,7 +104,7 @@ body{
 	#scp {
 	/* ADJUST POSITION */
 		position: absolute;
-		left: 12px;
+		left: 9px;
 		top: 7px;	
 		width: 103px;
 		height: 38px;
@@ -127,9 +127,9 @@ body{
 	#tunein {
 	 
 		position: absolute;
-		left: 133px;
+		left: 122px;
 		top: 5px;	
-		width: 95px;
+		width: 140px;
 		height: 40px;
 		background-image: url(images/tunein_now.png);
 	}
