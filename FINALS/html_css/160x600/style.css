@@ -112,7 +112,7 @@ body{
 	#logo_nbc {
 		position: absolute;
 		left: 14px;
-		top: 412px;	
+		top: 415px;	
 		width: 37px;
 		height: 22px;
 		background-image: url(images/logo_nbc.png);
@@ -121,7 +121,7 @@ body{
 	#logo_nbcsn {
 		position: absolute;
 		left: 62px;
-		top: 407px;	
+		top: 410px;	
 		width: 43px;
 		height: 32px;
 		background-image: url(images/logo_nbcsn.png);
@@ -130,7 +130,7 @@ body{
 	#logo_app {
 		position: absolute;
 		left: 116px;
-		top: 407px;	
+		top: 410px;	
 		width: 29px;
 		height: 29px;
 		background-image: url(images/logo_app.png);
@@ -148,7 +148,7 @@ body{
 	#scp {
 		position: absolute;
 		left: 27px;
-		top: 120px;	
+		top: 112px;	
 		width: 106px;
 		height: 121px;
 		background-image: url(images/scp.png);
