@@ -44,7 +44,7 @@ body{
 	#tagline1outline {
 		position: absolute;
 		left: 425px;
-		top: 22px;	
+		top: 21px;	
 		width: 288px;
 		height: 50px;
 		background-image: url(images/tagline2-outline.png);
@@ -62,7 +62,7 @@ body{
 	#tagline2outline {
 		position: absolute;
 		left: 425px;
-		top: 22px;	
+		top: 21px;	
 		width: 288px;
 		height: 50px;
 		background-image: url(images/tagline2-outline.png);
