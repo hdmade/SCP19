@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document*/
+
+body{
+	background-color:#333;
+	margin:0;
+}
+
+#animation {
+	visibility: hidden;
+}
+
+#banner {
+	position: absolute;
+	width: 160px;
+	height: 600px;
+	background-color: #000000;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	border: 1px solid #ffffff;
+	box-sizing: border-box;
+}
+
+.bg {
+		position: absolute;
+		left: 0px;
+		top: 0px;	
+		width: 160px;
+		height: 640px;
+	}
+
+/* FRAME 1 */
+
+	#taglinetop {
+		position: absolute;
+		left: 9px;
+		top: 215px;	
+		width: 141px;
+		height: 66px;
+		background-image: url(images/tagline-top.png);
+	}
+
+
+	#tagline1 {
+		position: absolute;
+		left: 19px;
+		top: 291px;	
+		width: 121px;
+		height: 94px;
+		background-image: url(images/tagline1.png);
+	}
+
+	#tagline1outline {
+		position: absolute;
+		left: 20px;
+		top: 292px;	
+		width: 122px;
+		height: 95px;
+		background-image: url(images/tagline1-outline.png);
+	}
+
+
+	#tagline2 {
+		position: absolute;
+		left: 19px;
+		top: 291px;	
+		width: 121px;
+		height: 94px;
+		background-image: url(images/tagline2.png);
+	}
+
+	#tagline2outline {
+		position: absolute;
+		left: 20px;
+		top: 292px;	
+		width: 122px;
+		height: 95px;
+		background-image: url(images/tagline2-outline.png);
+	}
+
+
+/* END FRAME */
+	
+	#begin {
+		position: absolute;
+		left: 28px;
+		top: 260px;	
+		width: 105px;
+		height: 127px;
+		background-image: url(images/begin.png);
+	}
+
+	#image1 {
+		position: absolute;
+		left: 0px;
+		bottom: 0px;	
+		width: 160px;
+		height: 600px;
+		background-image: url(images/image1.png);
+	}
+
+	#image {
+		position: absolute;
+		left: 0px;
+		top: 0px;	
+		width: 160px;
+		height: 600px;
+		background-image: url(images/image.png);
+	}
+
+	#logo_nbc {
+		position: absolute;
+		left: 14px;
+		top: 412px;	
+		width: 37px;
+		height: 22px;
+		background-image: url(images/logo_nbc.png);
+	}
+
+	#logo_nbcsn {
+		position: absolute;
+		left: 62px;
+		top: 407px;	
+		width: 43px;
+		height: 32px;
+		background-image: url(images/logo_nbcsn.png);
+	}
+
+	#logo_app {
+		position: absolute;
+		left: 116px;
+		top: 407px;	
+		width: 29px;
+		height: 29px;
+		background-image: url(images/logo_app.png);
+	}
+
+	#cta {
+		position: absolute;
+		left: 0px;
+		top: 573px;	
+		width: 160px;
+		height: 27px;
+		background-image: url(images/cta.jpg);
+	}
+	
+	#scp {
+		position: absolute;
+		left: 27px;
+		top: 120px;	
+		width: 106px;
+		height: 121px;
+		background-image: url(images/scp.png);
+	}

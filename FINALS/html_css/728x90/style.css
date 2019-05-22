@@ -1,0 +1,146 @@
+@charset "UTF-8";
+/* CSS Document*/
+
+body{
+	background-color:#333;
+	margin:0;
+}
+
+#animation {
+	visibility: hidden;
+}
+
+#banner {
+	position: absolute;
+	width: 728px;
+	height: 90px;
+	background-color: #000000;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	border: 1px solid #ffffff;
+	box-sizing: border-box;
+}
+
+.bg {
+		position: absolute;
+		left: -55px;
+		top: 0px;	
+		width: 838px;
+		height: 90px;
+	}
+
+/* FRAME 1 */
+
+	#tagline1 {
+		position: absolute;
+		left: 105px;
+		top: 20px;	
+		width: 518px;
+		height: 49px;
+		background-image: url(images/tagline1.png);
+	}
+
+	#tagline1outline {
+		position: absolute;
+		left: 507px;
+		top: 21px;	
+		width: 118px;
+		height: 50px;
+		background-image: url(images/tagline1-outline.png);
+	}	
+
+	#tagline2 {
+		position: absolute;
+		left: 24px;
+		top: 21px;	
+		width: 687px;
+		height: 48px;
+		background-image: url(images/tagline2.png);
+	}
+
+	#tagline2outline {
+		position: absolute;
+		left: 425px;
+		top: 22px;	
+		width: 288px;
+		height: 50px;
+		background-image: url(images/tagline2-outline.png);
+	}
+
+
+/* END FRAME */
+	
+/*
+	#begin {
+		position: absolute;
+		left: 453px;
+		top: 8px;	
+		width: 163px;
+		height: 30px;
+		background-image: url(images/begin.png);
+	}
+*/
+
+	#image {
+		position: absolute;
+		left: 0px;
+		top: 0px;	
+		width: 183px;
+		height: 90px;
+		background-image: url(images/image.png);
+	}
+
+    #tag {
+		position: absolute;
+		left: 353px;
+		top: 13px;	
+		width: 333px;
+		height: 23px;
+		background-image: url(images/tag.png);
+	}
+
+	#logo_nbc {
+		position: absolute;
+		left: 410px;
+		top: 50px;	
+		width: 42px;
+		height: 26px;
+		background-image: url(images/logo_nbc.png);
+	}
+
+	#logo_nbcsn {
+		position: absolute;
+		left: 461px;
+		top: 48px;	
+		width: 130px;
+		height: 34px;
+		background-image: url(images/logo_nbcsn.png);
+	}
+
+	#logo_app {
+		position: absolute;
+		left: 601px;
+		top: 47px;	
+		width: 29px;
+		height: 29px;
+		background-image: url(images/logo_app.png);
+	}
+
+     #cta {
+		position: absolute;
+		left: 703px;
+		top: 0px;	
+		width: 24px;
+		height: 89px;
+		background-image: url(images/cta.png);
+	}
+
+	#scp {
+		position: absolute;
+		left: 189px;
+		top: 11px;	
+		width: 139px;
+		height: 68px;
+		background-image: url(images/scp.png);
+	}
