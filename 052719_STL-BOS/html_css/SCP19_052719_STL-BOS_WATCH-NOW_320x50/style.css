@@ -104,10 +104,10 @@ body{
 	#scp {
 	/* ADJUST POSITION */
 		position: absolute;
-		left: 9px;
-		top: 7px;	
-		width: 103px;
-		height: 38px;
+		left: 10px;
+		top: 4px;	
+		width: 85px;
+		height: 42px;
 		background-image: url(images/scp.png);
 	}
 
@@ -127,7 +127,7 @@ body{
 	#tunein {
 	 
 		position: absolute;
-		left: 126px;
+		left: 112px;
 		top: 5px;	
 		width: 134px;
 		height: 40px;
