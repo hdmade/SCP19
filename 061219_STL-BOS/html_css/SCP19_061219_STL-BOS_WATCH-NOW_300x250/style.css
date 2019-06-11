@@ -43,16 +43,16 @@ body{
 
 	#tagline1 {
 		position: absolute;
-		left: 92px;
-		top: 144px;	
-		width: 116px;
-		height: 45px;
+		left: 53px;
+		top: 53px;	
+		width: 195px;
+		height: 136px;
 		background-image: url(images/tagline1.png);
 	}
 
 	#tagline1outline {
 		position: absolute;
-		left: 94px;
+		left: 93px;
 		top: 145px;	
 		width: 117px;
 		height: 47px;
@@ -61,21 +61,21 @@ body{
 
 /* FRAME 2 */
 
-	#tagline2top {
+/*	#tagline2top {
 		position: absolute;
 		left: 63px;
 		top: 53px;	
 		width: 171px;
 		height: 81px;
 		background-image: url(images/tagline2-top.png);
-	}
+	}*/
 
 	#tagline2 {
 		position: absolute;
 		left: 15px;
-		top: 144px;	
+		top: 53px;	
 		width: 273px;
-		height: 45px;
+		height: 136px;
 		background-image: url(images/tagline2.png);
 	}
 
@@ -137,9 +137,9 @@ body{
 
 	#scp {
 		position: absolute;
-		left: 92px;
-		top: 56px;	
-		width: 131px;
-		height: 47px;
+		left: 106px;
+		top: 50px;	
+		width: 103px;
+		height: 51px;
 		background-image: url(images/scp.png);
 	}

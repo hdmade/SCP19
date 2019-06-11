@@ -31,14 +31,12 @@
         <div id="scp"></div> 
 
         <!-- theres nothing like -->
-        <div id="tagline1top"></div>
 
         <!-- playoff hockey -->
         <div id="tagline1"></div>
         <div id="tagline1outline"></div>
 
         <!-- theres nothing like -->
-        <div id="tagline2top"></div>
 
         <!-- playoff hockey -->
         <div id="tagline2"></div>
@@ -76,9 +74,9 @@
           .from($animation, 0.25, {autoAlpha:0}, "start+=0.5")
 
           .add("frame1", "+=0.75")
-          .from($tagline1top, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1")
+          // .from($tagline1top, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1")
           
-          .from($tagline1, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1+=0.4")   
+          .from($tagline1, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1")   
           .from($tagline1outline, 2, {autoAlpha:0, ease: RoughEase.ease.config({ template:  Power0.easeNone, strength: 1, points: 20, taper: "none", randomize: true, clamp: false})}, "frame1+=0.6")
 
           .to($tagline1, 0.25, {opacity:0, y:25}, "frame1+=3")

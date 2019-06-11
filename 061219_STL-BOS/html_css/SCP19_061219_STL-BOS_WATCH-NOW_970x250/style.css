@@ -43,10 +43,10 @@ body{
 
 	#tagline1 {
 		position: absolute;
-		left: 347px;
-		top: 112px;	
-		width: 282px;
-		height: 111px;
+		left: 184px;
+		top: 28px;	
+		width: 601px;
+		height: 194px;
 		background-image: url(images/tagline1.png);
 	}
 
@@ -54,7 +54,7 @@ body{
 		position: absolute;
 		left: 350px;
 		top: 114px;	
-		width: 284px;
+		width: 283px;
 		height: 113px;
 		background-image: url(images/tagline1-outline.png);
 	}		
@@ -64,9 +64,9 @@ body{
 	#tagline2 {
 		position: absolute;
 		left: 158px;
-		top: 112px;	
+		top: 28px;	
 		width: 655px;
-		height: 110px;
+		height: 193px;
 		background-image: url(images/tagline2.png);
 	}
 
@@ -78,7 +78,6 @@ body{
 		height: 111px;
 		background-image: url(images/tagline2-outline.png);
 	}
-
 
 /* END FRAME */
 	
@@ -177,9 +176,9 @@ body{
 
 	#scp {
 		position: absolute;
-		left: 392px;
-		top: 14px;	
-		width: 186px;
-		height: 67px;
+		left: 418px;
+		top: 15px;	
+		width: 134px;
+		height: 66px;
 		background-image: url(images/scp.png);
 	}

@@ -35,8 +35,8 @@
         <div id="image2"></div>
 
 
-        <div id="tagline1top"></div>
-
+<!--         <div id="tagline1top"></div>
+ -->
         <div id="tagline1"></div>
         <div id="tagline1outline"></div>
 
@@ -84,8 +84,8 @@
           .from($animation, 0.25, {autoAlpha:0}, "start+=0.5")
 
           .add("frame1", "+=0.75")
-          .from($tagline1top, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1")
-          .from($tagline1, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1+=0.4")   
+          // .from($tagline1top, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1")
+          .from($tagline1, 0.25, {opacity:0, scale:2, ease: Power1.easeOut}, "frame1")   
           .from($tagline1outline, 2, {autoAlpha:0, ease: RoughEase.ease.config({ template:  Power0.easeNone, strength: 1, points: 20, taper: "none", randomize: true, clamp: false})}, "frame1+=0.6")
 
           .add("frame2", "+=1.85")

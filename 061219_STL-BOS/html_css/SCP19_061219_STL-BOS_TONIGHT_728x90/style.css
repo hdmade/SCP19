@@ -34,16 +34,16 @@ body{
 
 	#tagline1 {
 		position: absolute;
-		left: 102px;
+		left: 86px;
 		top: 20px;	
-		width: 524px;
+		width: 556px;
 		height: 48px;
 		background-image: url(images/tagline1.png);
 	}
 
 	#tagline1outline {
 		position: absolute;
-		left: 503px;
+		left: 520px;
 		top: 22px;	
 		width: 125px;
 		height: 49px;
@@ -114,7 +114,7 @@ body{
 
 	#tunein {
 		position: absolute;
-		left: 309px;
+		left: 299px;
 		top: 18px;	
 		width: 213px;
 		height: 55px;
@@ -132,7 +132,7 @@ body{
 */
 	#logo_nbcsn {
 		position: absolute;
-		left: 531px;
+		left: 525px;
 		top: 46px;	
 		width: 45px;
 		height: 27px;
@@ -169,9 +169,9 @@ body{
 
 	#scp {
 		position: absolute;
-		left: 158px;
-		top: 25px;	
-		width: 132px;
-		height: 47px;
+		left: 162px;
+		top: 18px;	
+		width: 112px;
+		height: 54px;
 		background-image: url(images/scp.png);
 	}

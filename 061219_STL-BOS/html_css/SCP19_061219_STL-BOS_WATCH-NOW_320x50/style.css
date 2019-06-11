@@ -34,9 +34,9 @@ body{
 
 	#tagline1 {
 		position: absolute;
-		left: 42px;
+		left: 35px;
 		top: 15px;	
-		width: 235px;
+		width: 248px;
 		height: 22px;
 		background-image: url(images/tagline1.png);
 	}
@@ -112,10 +112,10 @@ body{
 	#scp {
 	/* ADJUST POSITION */
 		position: absolute;
-		left: 5px;
-		top: 7px;	
-		width: 106px;
-		height: 38px;
+		left: 11px;
+		top: 4px;	
+		width: 85px;
+		height: 42px;
 		background-image: url(images/scp.png);
 	}
 
@@ -124,7 +124,7 @@ body{
 	#tunein {
 	 
 		position: absolute;
-		left: 123px;
+		left: 113px;
 		top: 6px;	
 		width: 141px;
 		height: 37px;
