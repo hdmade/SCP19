@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* CSS Document*/
+
+body{
+	background-color:#333;
+	margin:0;
+}
+
+#animation {
+	visibility: hidden;
+}
+
+#banner {
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	background-color: #000000;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	border: 1px solid #ffffff;
+	box-sizing: border-box;
+}
+
+.bg {
+		position: absolute;
+		left: -25px;
+		top: 0px;	
+		width: 350px;
+		height: 250px;
+	}
+
+/* FRAME 1 */
+
+	#tagline1top {
+		position: absolute;
+		left: 63px;
+		top: 53px;	
+		width: 171px;
+		height: 81px;
+		background-image: url(images/tagline1-top.png);
+	}
+
+	#tagline1 {
+		position: absolute;
+		left: 92px;
+		top: 144px;	
+		width: 116px;
+		height: 45px;
+		background-image: url(images/tagline1.png);
+	}
+
+	#tagline1outline {
+		position: absolute;
+		left: 94px;
+		top: 145px;	
+		width: 117px;
+		height: 47px;
+		background-image: url(images/tagline1-outline.png);
+	}
+
+/* FRAME 2 */
+
+	#tagline2top {
+		position: absolute;
+		left: 63px;
+		top: 53px;	
+		width: 171px;
+		height: 81px;
+		background-image: url(images/tagline2-top.png);
+	}
+
+	#tagline2 {
+		position: absolute;
+		left: 15px;
+		top: 144px;	
+		width: 273px;
+		height: 45px;
+		background-image: url(images/tagline2.png);
+	}
+
+	#tagline2outline {
+		position: absolute;
+		left: 17px;
+		top: 145px;	
+		width: 273px;
+		height: 46px;
+		background-image: url(images/tagline2-outline.png);
+	}
+
+/* END FRAME */
+
+	#image {
+		position: absolute;
+		right: 0px;
+		bottom: 0px;	
+		width: 300px;
+		height: 250px;
+		background-image: url(images/image1.png);
+	}
+
+	#image2 {
+		position: absolute;
+		right: 0px;
+		bottom: 0px;	
+		width: 300px;
+		height: 250px;
+		background-image: url(images/image2.png);
+	}
+
+    #tag {
+		position: absolute;
+		left: 66px;
+		top: 109px;	
+		width: 182px;
+		height: 48px;
+		background-image: url(images/tunein_tonight.png);
+	}
+
+	#logo_nbcsn {
+		position: absolute;
+		left: 117px;
+		top: 171px;	
+		width: 41px;
+		height: 25px;
+		background-image: url(images/logo_nbcsn.png);
+	}
+
+	#logo_app {
+		position: absolute;
+		left: 173px;
+		top: 172px;	
+		width: 26px;
+		height: 26px;
+		background-image: url(images/logo_app.png);
+	}
+
+	#scp {
+		position: absolute;
+		left: 92px;
+		top: 56px;	
+		width: 131px;
+		height: 47px;
+		background-image: url(images/scp.png);
+	}
